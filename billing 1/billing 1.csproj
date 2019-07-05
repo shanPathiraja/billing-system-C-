@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9513A2B-04F7-4655-BA68-6424775039A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>billing_1</RootNamespace>
+    <AssemblyName>billing 1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about_f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="about_f.Designer.cs">
+      <DependentUpon>about_f.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_product_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_product_form.Designer.cs">
+      <DependentUpon>add_product_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="c_stoke_f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="c_stoke_f.Designer.cs">
+      <DependentUpon>c_stoke_f.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Daly_sum_f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Daly_sum_f.Designer.cs">
+      <DependentUpon>Daly_sum_f.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database91DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database91DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dmg_i_f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dmg_i_f.Designer.cs">
+      <DependentUpon>dmg_i_f.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs" />
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="m_order_f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="m_order_f.Designer.cs">
+      <DependentUpon>m_order_f.cs</DependentUpon>
+    </Compile>
+    <Compile Include="M_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="M_user.Designer.cs">
+      <DependentUpon>M_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New_order_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_order_Form.Designer.cs">
+      <DependentUpon>New_order_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="report_f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_f.Designer.cs">
+      <DependentUpon>report_f.cs</DependentUpon>
+    </Compile>
+    <Compile Include="return_invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="return_invoice.Designer.cs">
+      <DependentUpon>return_invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ret_i_basket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ret_i_basket.Designer.cs">
+      <DependentUpon>ret_i_basket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stoke_manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stoke_manage.Designer.cs">
+      <DependentUpon>Stoke_manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="u_stoke_f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="u_stoke_f.Designer.cs">
+      <DependentUpon>u_stoke_f.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="about_f.resx">
+      <DependentUpon>about_f.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_product_form.resx">
+      <DependentUpon>add_product_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="c_stoke_f.resx">
+      <DependentUpon>c_stoke_f.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Daly_sum_f.resx">
+      <DependentUpon>Daly_sum_f.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="m_order_f.resx">
+      <DependentUpon>m_order_f.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="M_user.resx">
+      <DependentUpon>M_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_order_Form.resx">
+      <DependentUpon>New_order_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="report_f.resx">
+      <DependentUpon>report_f.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="return_invoice.resx">
+      <DependentUpon>return_invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ret_i_basket.resx">
+      <DependentUpon>ret_i_basket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stoke_manage.resx">
+      <DependentUpon>Stoke_manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="u_stoke_f.resx">
+      <DependentUpon>u_stoke_f.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Database91DataSet.xsc">
+      <DependentUpon>Database91DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database91DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database91DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database91DataSet.xss">
+      <DependentUpon>Database91DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database91.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Accounting_48px.png" />
+    <None Include="Resources\619823.jpg" />
+    <None Include="Resources\178048.jpg" />
+    <None Include="Resources\SC Logo.png" />
+    <None Include="Resources\Home_background.png" />
+    <None Include="Resources\Hacker_computer_sadic_dark_anarchy__14__1920x1200.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

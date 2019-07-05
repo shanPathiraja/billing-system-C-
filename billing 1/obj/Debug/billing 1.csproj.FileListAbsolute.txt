@@ -1,0 +1,71 @@
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\bin\Debug\Database91.accdb
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\bin\Debug\billing 1.exe.config
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\bin\Debug\billing 1.exe
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\bin\Debug\billing 1.pdb
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.manage_product_form.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Form1.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Form2.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.m_order_f.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.M_user.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.New_order_Form.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Properties.Resources.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing 1.csproj.GenerateResource.Cache
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing 1.exe
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing 1.pdb
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.report_f.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.c_stoke_f.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Stoke_manage.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.u_stoke_f.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.about_f.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Daly_sum_f.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.return_invoice.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing_1.ret_i_basket.resources
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing 1.csprojAssemblyReference.cache
+C:\Users\Shan\Desktop\C#\billing\billing 1\billing 1\obj\Debug\billing 1.csproj.CoreCompileInputs.cache
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\bin\Debug\billing 1.exe.config
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing 1.exe
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing 1.pdb
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\bin\Debug\Database91.accdb
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\bin\Debug\billing 1.exe
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\bin\Debug\billing 1.pdb
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing 1.csprojResolveAssemblyReference.cache
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.about_f.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.manage_product_form.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.c_stoke_f.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Daly_sum_f.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Form1.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Form2.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.m_order_f.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.M_user.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.New_order_Form.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Properties.Resources.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.report_f.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.return_invoice.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.ret_i_basket.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.Stoke_manage.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing_1.u_stoke_f.resources
+C:\Users\Shan\Desktop\Work\C#\billing\billing 1\billing 1\obj\Debug\billing 1.csproj.GenerateResource.Cache
+D:\desktop\C#\billing 1\billing 1\bin\Debug\Database91.accdb
+D:\desktop\C#\billing 1\billing 1\bin\Debug\billing 1.exe.config
+D:\desktop\C#\billing 1\billing 1\bin\Debug\billing 1.exe
+D:\desktop\C#\billing 1\billing 1\bin\Debug\billing 1.pdb
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing 1.csprojAssemblyReference.cache
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.about_f.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.manage_product_form.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.c_stoke_f.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.Daly_sum_f.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.Form2.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.m_order_f.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.M_user.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.New_order_Form.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.Properties.Resources.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.report_f.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.return_invoice.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.ret_i_basket.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.Stoke_manage.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.u_stoke_f.resources
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing 1.csproj.GenerateResource.cache
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing 1.csproj.CoreCompileInputs.cache
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing 1.exe
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing 1.pdb
+D:\desktop\C#\billing 1\billing 1\obj\Debug\billing_1.variable.resources
